@@ -1,16 +1,13 @@
 <h1 align="left">Hello world 🌎, I'm Stefy 👋</h1>
 <h3 align="right">📍 Buenos Aires, Argentina.</h3>
-<br>
-🎓 I'm pursuing an engineering degree in computer science.
-<br>
-<br>
-👩🏻‍💻 I'm currently learning HTML5, CSS3, JavaScript, ReactJS, MongoDB, NodeJs, Express, Java, C++, Mobile Testing with Appium, API testing, Serenity, Cypress.
-<br>
-<br>
-📫 If you need to reach me: **stefania.gentile89@icloud.com**
-<br>
-<br>
-⚡ Fun fact **I love sports, and traveling ✈️. I'm a Gym teacher, 🧘🏻‍♀️🏃🏻‍♀️🤸🏻‍♀️ and I work as a Flight Attendant.**
+
+- 🎓 I'm pursuing an **engineering degree in Computer Science**.
+
+- 👩🏻‍💻 I'm currently learning **Full Stack development**, and **QA Automation** (HTML5, CSS3, JavaScript, ReactJS, MongoDB, NodeJs, Express, Java, C++, Mobile Testing with Appium, API testing, Serenity, Cypress).
+
+- 📫 How to reach me **stefania.gentile89@icloud.com**
+
+- ⚡ Fun fact **I love sports, and traveling ✈️. I'm a Gym teacher, 🧘🏻‍♀️🏃🏻‍♀️🤸🏻‍♀️ and I work as a Flight Attendant.**
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
