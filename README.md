@@ -1,5 +1,9 @@
-<h1 align="center">Hello world 🌎, I'm Stefy 👋</h1>
-<h3 align="center">📍 Buenos Aires, Argentina.</h3>
+<h1 align="left">Hello world 🌎, I'm Stefy 👋</h1>
+<h3 align="left">📍 Buenos Aires, Argentina.</h3>
+
+- 🎓 I'm pursuing an engineering degree in computer science.
+
+- 👩🏻‍💻 I'm currently learning HTML%, CSS3, JavaScript, ReactJS, MongoDB, NodeJs, Express, Java, C++, Mobile Testing with Appium, API testing, Serenity, Cypress.
 
 - 📫 How to reach me **stefania.gentile89@icloud.com**
 
