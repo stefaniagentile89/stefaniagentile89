@@ -1,5 +1,5 @@
-<h1 align="left">Hello world! 🌎, I'm Stefy 👋.</h1>
-<h3 align="right">📍 Buenos Aires, Argentina.</h3>
+<h1 align="left">Hello world! 🌎.</h1>
+<h3 align="right">I'm Stefy 👋, 📍 from Buenos Aires, Argentina.</h3>
 
 - 🎓 I'm pursuing an **engineering degree in Computer Science**.
 
