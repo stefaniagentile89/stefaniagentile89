@@ -1,13 +1,13 @@
 <h1 align="left">Hello world! 🌎.</h1>
-<h3 align="right">I'm Stefy 👋, 📍 from Buenos Aires, Argentina.</h3>
+<h3 align="right">I'm Stefania 👋, 📍 from Buenos Aires, Argentina.</h3>
 
 - 🎓 I'm pursuing an **engineering degree in Computer Science**.
 
-- 👩🏻‍💻 I'm currently learning **Full Stack development**, and **QA Automation** (HTML5, CSS3, JavaScript, ReactJS, MongoDB, NodeJs, Express, Java, C++, Mobile Testing with Appium, API testing, Serenity, Cypress).
+- 👩🏻‍💻 I'm currently learning **Full Stack development** (HTML5, CSS3, JavaScript, ReactJS, MongoDB, NodeJs, Express, C++).
 
 - 📫 If you need to reach me **stefania.gentile89@icloud.com**
 
-- ⚡ Fun fact **I love sports, and traveling ✈️. I'm a Gym teacher, 🧘🏻‍♀️🏃🏻‍♀️🤸🏻‍♀️ and I work as a Flight Attendant.**
+- ⚡ More about me **I love sports, and traveling ✈️. I'm a Gym teacher, 🧘🏻‍♀️🏃🏻‍♀️🤸🏻‍♀️ and I work as a Flight Attendant.**
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 
-<h3 align="left">🛠 Languages and Tools I'm working on:</h3>
+<h3 align="left">🛠 Languages and Tools I'm investigating:</h3>
 <p align="left">
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
