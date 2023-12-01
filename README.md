@@ -7,7 +7,7 @@
 
 - 📫 If you need to reach me **stefania.gentile89@icloud.com**
 
-- ⚡ More about me **I love sports, and traveling ✈️. I'm a Gym teacher, 🧘🏻‍♀️🏃🏻‍♀️🤸🏻‍♀️ and I work as a Flight Attendant.**
+- More about me: **I love sports, and traveling ✈️. I'm a Gym teacher, 🧘🏻‍♀️🏃🏻‍♀️🤸🏻‍♀️ and I work as a Flight Attendant.**
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
